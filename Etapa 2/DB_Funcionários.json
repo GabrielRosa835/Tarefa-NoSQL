@@ -1,0 +1,57 @@
+{
+    "Funcionário 1": {
+        "Nome": "João Grilo",
+        "Endereço": {
+            "Rua": "Rua Suassuna",
+            "Número": 30,
+            "Cidade": "João Pessoa",
+            "Estado": "Paraíba"
+        },
+        "Emails": ["grilo@mail.com", "joaog@mk.com"],
+        "Cargo": "Contador",
+        "Jornada": 40,
+        "Salário": 3000
+    },
+    
+    "Funcionário 2": {
+        "Nome": "Ada Byron",
+        "Endereço": {
+            "Rua": "Rua Lovelace",
+            "Número": 67,
+            "Cidade": "London"
+        },
+        "Emails": ["ada@mail.com", "abyrong@tech.com"],
+        "Cargo": "Developer",
+        "Jornada": 20,
+        "Salário": 15000
+    },
+
+    "Funcionário 3": {
+        "Nome": "Gerundino",
+        "Endereço": {
+            "Rua": "Rua Substantivo",
+            "Número": 78,
+            "Bairro": "Predicado",
+            "Cidade": "Mesóclise",
+            "Estado": "Acre"
+        },
+        "Emails": "gerundino@mail.com",
+        "Cargo": "Linguista",
+        "Jornada": 44,
+        "Salário": 8000
+    },
+
+    "Funcionário 4": {
+        "Nome": "Chicó",
+        "Endereço": {
+            "Rua": "Rua Eurico",
+            "Número": 50,
+            "Cidade": "João Pessoa",
+            "Estado": "Paraíba",
+            "Complemento": "Apt 28, Bloco C"
+        },
+        "Cargo": "Developer",
+        "Jornada": 20,
+        "Salário": 15000
+    }
+}
